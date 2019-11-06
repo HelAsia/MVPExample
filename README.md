@@ -9,4 +9,4 @@
 - **Presenter** - deals with the mediation between View and Model. It contains all logic. Retrieves data from the Model to properly display them in the View, reacts to information about user interaction coming from the View.
 
 Simple application screen:
-![main](main_screen.JPG)
+![main](main_screen.jpg)
