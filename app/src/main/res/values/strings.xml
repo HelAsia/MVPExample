@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVP Example</string>
+    <string name="user_id">User id</string>
+    <string name="user_name">User name</string>
+    <string name="user_surname">User surname</string>
+    <string name="user_data_title">Enter user data:</string>
+    <string name="add_user">Add</string>
+    <string name="edit_user">Edit</string>
+    <string name="delete_user">Delete</string>
+    <string name="users_list_title">Available default users:</string>
+    <string name="users_list_clicked">You clicked user with id: </string>
+    <string name="user_success_message">Success</string>
+    <string name="user_validate_info">You have to fill all fields!</string>
+</resources>
